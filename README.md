@@ -38,4 +38,12 @@ You can then install the required Python libraries (NumPy, Keras, Theano) using 
 - It includes functions for running the environment, choosing actions, and updating the model based on new experiences.
 - The training parameters like the number of episodes, discount factor, exploration rate, and learning rate are configurable.
 
+### How to Cite
+If you use this code in your research or find it helpful, please consider citing it using the following BibTeX entry:
+
+```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
